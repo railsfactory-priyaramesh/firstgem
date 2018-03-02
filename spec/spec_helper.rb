@@ -1,5 +1,7 @@
 require "bundler/setup"
 require "firstgem"
+require 'rspec/core'
+
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
